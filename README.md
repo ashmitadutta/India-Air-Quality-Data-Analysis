@@ -7,3 +7,5 @@ analysis is done on India Air Quality data and the value of Air Quality Index ba
 features of concentration of sulphur dioxide, nitrogen dioxide, respirable suspended
 particulate matter, suspended particulate matter were predicted and classification of the Air
 Quality as good, satisfactory, moderately polluted, poor, very poor and severe was done.
+
+Dataset used : https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data/data
